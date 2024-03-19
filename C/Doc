@@ -1,0 +1,11 @@
+O que é #include é um comando pré-processador que diz ao compilador para incluir o conteúdo destdio.hArquivo (insep entrada e saída padrão) no programa.
+
+O que éstdio.hO arquivo contém funções como scanf() E aprintf()para levar a entrada e a saída de exibição, respectivamente.
+
+Se você usa o printf() Função sem escrever #include <stdio.h> O programa não vai compilar.
+
+A execução de um programa C começa a partir domain()Função.
+
+printf()é uma função de biblioteca para enviar saída formatada para a tela. Neste programa,printf()DisplaysHello, World!texto na tela.
+
+O que éreturn 0; A declaração é a "Situação de saída" do programa. Em termos simples, o programa termina com esta afirmação.
